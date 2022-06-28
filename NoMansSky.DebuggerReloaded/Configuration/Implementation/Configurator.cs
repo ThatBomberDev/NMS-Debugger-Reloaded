@@ -1,5 +1,6 @@
 ﻿using Reloaded.Mod.Interfaces;
 using System.IO;
+using NoMansSky.DebuggerReloaded.Configuration;
 
 namespace NoMansSky.ModTemplate.Configuration.Implementation
 {

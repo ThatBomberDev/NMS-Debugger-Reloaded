@@ -7,12 +7,13 @@ using Reloaded.ModHelper;
 using NoMansSky.Api;
 using System;
 using libMBIN.NMS;
+using NoMansSky.DebuggerReloaded.Configuration;
 
 #if DEBUG
 using System.Diagnostics;
 #endif
 
-namespace NoMansSky.ModTemplate
+namespace NoMansSky.DebuggerReloaded
 {
     public class Program : IMod
     {
